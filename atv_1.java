@@ -17,7 +17,7 @@ public class atv_1 {
         
         area = (h * (bmenor + bmaior)) / 2;
 
-        System.out.println("A área é de: " + area);
+        System.out.println("A área é de: " + area + " metros quadrados");
 
 
     }
