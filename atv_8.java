@@ -16,7 +16,6 @@ public class atv_6 {
 
         System.out.println("O valor escolhido convertido para libras é de: " + libra + " lb");
         System.out.println("O valor escolhido convertido para quilos é de: " + quilo + " kg");
-        // quilo->libra = quilo * 2,2046 lb
-        // libras->quilo = libras * 0,454 kg
+  
     }
 }
