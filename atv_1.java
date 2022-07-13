@@ -19,11 +19,5 @@ public class atv_1 {
 
         System.out.println("A área é de: " + area + " metros quadrados");
 
-
     }
-
-    
-
-
-
 }
